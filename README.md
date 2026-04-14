@@ -106,15 +106,9 @@ designed for fast, in-browser labeling and review.
 
 ## 📊 GitHub Analytics
 
-![Aman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanTewari&theme=github-compact)
-
-<p align="center">
-    <img
-        height="220"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewari&layout=pie&langs_count=6&hide_border=true"
-        alt="Language usage pie chart"
-    />
-</p>
+- [Contribution activity](https://github.com/AmanTewari?tab=overview&from=2026-01-01&to=2026-12-31)
+- [Repositories](https://github.com/AmanTewari?tab=repositories)
+- [Stars received](https://github.com/AmanTewari?tab=stars)
 
 ---
 

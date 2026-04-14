@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="20250121_174110.jpg" alt="Banner: Aman Tewari" width="720" style="border-radius: 12px;" />
+    <img src="20250121_174110.jpg" alt="Banner: Aman Tewari" width="720" style="border-radius: 12px;" />
 
-  <h1>Hi, I'm Aman Tewari 👋</h1>
-  <p>
-    B.Tech Computer Science Engineering • UPES, Dehradun<br/>
-    Backend, data & systems • Always experimenting
-  </p>
+    <h1>Hi, I'm Aman Tewari 👋</h1>
+    <p>
+        B.Tech Computer Science Engineering • UPES, Dehradun<br/>
+        Backend, data & systems • Always experimenting
+    </p>
 
 </div>
 
@@ -19,7 +19,7 @@ and performance-oriented software development. I enjoy algorithmic design, syste
 and building architectures that are clean, reliable, and scalable.
 
 - Currently exploring: deep learning & computer vision, smarter recommendation systems,
-  and better ways to evaluate and deploy ML models.
+    and better ways to evaluate and deploy ML models.
 - I like working on projects where I can connect data, algorithms, and real-world usage.
 
 ---
@@ -32,11 +32,7 @@ and building architectures that are clean, reliable, and scalable.
 - **Tools & platforms:** Git, GitHub, VS Code, Postman, Unreal Engine 5
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,html,css,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 ---
@@ -50,9 +46,9 @@ semantic relationships between words.
 
 - **Tech:** Python · NLP · embeddings · similarity search
 - **Highlights:**
-  - Encodes lyrics into vector representations to compare songs across genres.
-  - Experiments with different similarity metrics and preprocessing strategies.
-  - Designed for exploration and discovery rather than just "more of the same".
+    - Encodes lyrics into vector representations to compare songs across genres.
+    - Experiments with different similarity metrics and preprocessing strategies.
+    - Designed for exploration and discovery rather than just "more of the same".
 
 [View repository →](https://github.com/AmanTewari/cross-genre-lyrics-recommendation)
 
@@ -64,9 +60,9 @@ An experimental project exploring vortex/swarm-style behavior, optimization, and
 
 - **Tech:** See repository for implementation details
 - **Highlights:**
-  - Focuses on emergent behavior from simple local rules.
-  - Provides a playground for testing ideas in swarm/heuristic optimization.
-  - Built to be easy to extend with new experiments.
+    - Focuses on emergent behavior from simple local rules.
+    - Provides a playground for testing ideas in swarm/heuristic optimization.
+    - Built to be easy to extend with new experiments.
 
 [View repository →](https://github.com/AmanTewari/VortexSwarm)
 
@@ -79,9 +75,9 @@ designed for fast, in-browser labeling and review.
 
 - **Tech:** JavaScript · HTML5 · CSS3
 - **Highlights:**
-  - Overlay system for drawing and adjusting annotations on video frames.
-  - Timeline controls to scrub, jump, and manage labeled segments.
-  - Runs entirely in the browser—no backend required for basic usage.
+    - Overlay system for drawing and adjusting annotations on video frames.
+    - Timeline controls to scrub, jump, and manage labeled segments.
+    - Runs entirely in the browser—no backend required for basic usage.
 
 [View repository →](https://github.com/AmanTewari/Framezz.js)
 
@@ -101,16 +97,25 @@ designed for fast, in-browser labeling and review.
 - B.Tech Computer Science Engineering — UPES, Dehradun.
 - Interests across backend development, data pipelines, and visual/pattern recognition.
 - Relevant coursework includes:
-  - Algorithms & Data Structures
-  - Machine Learning
-  - Visual & Pattern Recognition
-  - Operating Systems & Systems Programming
+    - Algorithms & Data Structures
+    - Machine Learning
+    - Visual & Pattern Recognition
+    - Operating Systems & Systems Programming
 
 ---
 
 ## 📊 GitHub Analytics
 
 ![Aman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanTewari&theme=github-compact)
+
+<p align="center">
+    <img
+        height="220"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewari&layout=pie&langs_count=6&hide_border=true"
+        alt="Language usage pie chart"
+    />
+</p>
+
 ---
 
 ## 📬 Contact

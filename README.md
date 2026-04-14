@@ -1,12 +1,12 @@
 <div align="center">
 
-    <img src="20250121_174110.jpg" alt="Banner: Aman Tewari" width="720" style="border-radius: 12px;" />
+<img src="20250121_174110.jpg" alt="Banner: Aman Tewari" width="720" style="border-radius: 12px;" />
 
-    <h1>Hi, I'm Aman Tewari 👋</h1>
-    <p>
-        B.Tech Computer Science Engineering • UPES, Dehradun<br/>
-        Backend, data & systems • Always experimenting
-    </p>
+<h1>Hi, I'm Aman Tewari 👋</h1>
+<p>
+    B.Tech Computer Science Engineering • UPES, Dehradun<br/>
+    Backend, data & systems • Always experimenting
+</p>
 
 </div>
 

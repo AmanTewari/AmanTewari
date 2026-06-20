@@ -28,11 +28,11 @@ and building architectures that are clean, reliable, and scalable.
 
 - **Core languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3
 - **Backend & APIs:** Node.js, Express
-- **Frontend:** React, Bootstrap
+- **Frontend:** : Bootstrap
 - **Tools & platforms:** Git, GitHub, VS Code, Postman, Unreal Engine 5
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,html,css,git,github,vscode" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 ---
